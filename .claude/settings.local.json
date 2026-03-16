@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(supabase db:*)",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}

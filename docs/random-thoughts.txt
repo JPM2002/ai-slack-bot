@@ -1,0 +1,12 @@
+things to think about:
+
+- what if the slack bot could also post daily summaries? like a morning briefing of what happened yesterday
+- URGENT: renew domain for freecash-academy.com before march
+- book recommendation from Jop: "Thinking in Systems" by Donella Meadows
+- the embedding approach for smart offers could also work for matching publishers to advertisers on almedia link
+- need to fix the amplitude dashboard for korea — retention numbers look wrong
+- birthday gift for mom — maybe a cooking class?
+- idea: use claude to auto-generate release notes from linear tickets
+- the n8n slack workflow is getting too complex, need to refactor
+- gym at 7am tomorrow, don't forget
+- interesting: deepseek r1 apparently very good at structured extraction tasks

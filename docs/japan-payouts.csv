@@ -1,0 +1,8 @@
+method,provider,min_payout_usd,max_payout_usd,fee_pct,integration_effort,notes
+Bank Transfer,Local Rails,50,10000,1.5,High,Requires Japanese banking partner
+PayPay,PayPay Corp,1,500,2.0,Medium,Most popular mobile wallet in Japan
+LINE Pay,LINE Corp,1,1000,1.8,Medium,Strong with younger demographic
+Amazon Gift Card,Amazon JP,5,200,0,Low,Already supported via Tango Card
+Crypto (USDT),Various,10,5000,1.0,Low,Already supported globally
+Rakuten Points,Rakuten,5,300,2.5,High,Popular but complex integration
+Apple Gift Card,Apple,10,200,0,Low,Via Tango Card limited appeal
