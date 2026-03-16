@@ -1,4 +1,4 @@
-ai-slack-bot
+# ai-slack-bot
 
 An AI-powered Slack knowledge management bot that captures, processes, and retrieves information using Claude AI (Anthropic) and Supabase.
 
